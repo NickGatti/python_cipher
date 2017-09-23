@@ -27,9 +27,11 @@ http://learnpythonthehardway.org/book/
 
 To try the example application, type the following in the terminal:
 
+# TL;DR JUST TYPE DIS!!!:   <<<<<<
+
 ```
-cd ex50
-python bin/app.py
+cd src
+python cipher.py
 ```
 
 Alternatively, open the file in ex50/bin and click the green Run
